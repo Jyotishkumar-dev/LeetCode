@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -50,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -73,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/2000-reverse-prefix-of-word) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
