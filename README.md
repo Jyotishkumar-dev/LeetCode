@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
