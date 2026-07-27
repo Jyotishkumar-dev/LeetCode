@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [2000-reverse-prefix-of-word](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
