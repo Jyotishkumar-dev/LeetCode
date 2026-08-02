@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
