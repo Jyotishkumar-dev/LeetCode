@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0242-valid-anagram) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0242-valid-anagram) |
