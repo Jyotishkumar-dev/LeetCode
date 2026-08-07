@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
