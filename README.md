@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0189-rotate-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0020-valid-parentheses) |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0020-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
