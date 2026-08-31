@@ -1,16 +1,27 @@
 class Solution {
     public int majorityElement(int[] nums) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int candidate = 0;
+        int count = 0;
 
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
 
-            if (map.get(num) > nums.length / 2) {
-                return num;
+            // If count becomes 0,
+            // choose the current number as candidate
+            if (count == 0) {
+                candidate = num;
+            }
+
+            // Same number -> increase strength
+            // Different number -> cancel strength
+            if (num == candidate) {
+                count++;
+            } else {
+                count--;
             }
         }
 
-        return -1;
+        return candidate;
     }
 }
+
