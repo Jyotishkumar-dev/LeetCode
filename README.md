@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
