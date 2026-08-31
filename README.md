@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [2000-reverse-prefix-of-word](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/2000-reverse-prefix-of-word) |
