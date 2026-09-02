@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0067-add-binary) |
