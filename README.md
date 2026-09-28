@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0217-contains-duplicate) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0342-power-of-four) |
