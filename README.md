@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0896-monotonic-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0896-monotonic-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
