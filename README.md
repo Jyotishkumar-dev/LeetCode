@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Stack
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0342-power-of-four) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/Jyotishkumar-dev/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Matrix
 |  |
 | ------- |
